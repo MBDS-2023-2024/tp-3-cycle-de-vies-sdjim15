@@ -5,8 +5,11 @@
         <string name="second_operand" />
         <string name="btn_compute" />
         <string name="app_name" >Tp 3</string>
-
-
+        <string name="calculer">Calculer</string>
+        <string name="sos_button">SOS</string>
+        <string name="search">Rechercher</string>
+        <string name="partager">Partager</string>
+        <string name="lancer_itineraire">Itineraire</string>
 
 
     </resources>
